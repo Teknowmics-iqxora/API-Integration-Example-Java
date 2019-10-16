@@ -1,4 +1,4 @@
-# API-Integration-Example---Java
+# API-Integration-Example-Java
 
  - This is simple maven java application which introduce the smartdocs api such as user login, create project, create project
  folder and upload the document to smartdocs.
