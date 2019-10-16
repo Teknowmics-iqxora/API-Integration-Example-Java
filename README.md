@@ -1,6 +1,6 @@
 # API-Integration-Example---Java
 
- - This is simple maven java appliccation which introduce the smartdocs api such as user login, create project, create project
+ - This is simple maven java application which introduce the smartdocs api such as user login, create project, create project
  folder and upload the document to smartdocs.
  - Attached bat file 'SmartdocsApi batch file' to run application.
  - Step to run SmartdocsApi using attached batch file :
@@ -9,3 +9,4 @@
      3. Put bat file and application jar in same location.
      4. Run the bat file from command line.
      5. Will get success message of performed smartdocs action on console.
+     6. Once document upload done, verify uploaded document in smartdocs.
